@@ -5,3 +5,21 @@ In this project I used the keras deep learning library and with convolutional ne
 
 # 1) Armored Titan
 ![]()
+
+# 2) Attack Titan
+![]()
+
+# 3) Beast Titan
+![]()
+
+# 4) Cart Titan
+![]()
+
+# 5) Colossal Titan
+![]()
+
+# 6) Female Titan
+![]()
+
+# My Deep Learning Blog!
+https://medium.com/@TerranceWhitehurst
