@@ -8,29 +8,18 @@ To learn more about this show follow the: https://attackontitan.fandom.com/wiki/
 
 # 1) Armored Titan
 
-![](images/armored_titan)
-
 # 2) Attack Titan
-
-![](images/attack_titan)
 
 # 3) Beast Titan
 
-![](images/beast_titan)
-
 # 4) Cart Titan
-![](images/cart_titan)
 
 # 5) Colossal Titan
 
-![](images/colossal_titan)
-
 # 6) Female Titan
-
-![](images/female_titan)
 
 # My Deep Learning Blog!
 
-![](images/headshot)
+![](images/headshot.jpg)
 
 https://medium.com/@TerranceWhitehurst
